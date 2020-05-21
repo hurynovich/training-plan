@@ -12,6 +12,14 @@
 - [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
 # SVN
 # Payara
+## Ресурсы
+[https://www.payara.fish/learn/payara-platform-documentation/]
+
+## Вопросы
+- [ ] 
+- [ ] Что такое и как устроет *.ear* файл
+- [ ] Что такое и как устроет *.war* файл
+
 # JSF
 # EJB
 # JPA
