@@ -20,8 +20,6 @@
 # JSF
 # EJB
 # JPA
-# EAR
-# WAR
 # Lombok
 # Log4j2
 # JUnit 4
