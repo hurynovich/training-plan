@@ -1,6 +1,7 @@
 # Eclipse
 # Maven
 1. [Maven: The Complete Reference](https://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf)
+2. https://maven.apache.org/
 
 - [ ] Что такое SNAPSHOT версия?
 - [ ] Что находится в пвпке *target*?
@@ -13,7 +14,7 @@
 1. https://docs.payara.fish/docs/5.193/README.html
 2. https://eclipse-ee4j.github.io/glassfish/docs/
 
-- [ ] 
+- [ ] Что такое **Domain** и зачем он нужен? 
 - [ ] Что такое и как устроет *.ear* файл
 - [ ] Что такое и как устроет *.war* файл
 
