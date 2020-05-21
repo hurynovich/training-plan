@@ -10,6 +10,8 @@
 - [ ] Что такое **Dependency Scope** (compile, runtime, provided, test)?
 - [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
 # SVN
+1. [http://svnbook.red-bean.com/en/1.7/svn-book.pdf](Version Control with Subversion)
+
 # Payara
 1. https://docs.payara.fish/docs/5.193/README.html
 2. https://eclipse-ee4j.github.io/glassfish/docs/
