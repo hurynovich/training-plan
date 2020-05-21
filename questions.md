@@ -1,9 +1,7 @@
 # Eclipse
 # Maven
-## Ресурсы
 1. [Maven: The Complete Reference](https://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf)
 
-## Вопросы
 - [ ] Что такое SNAPSHOT версия?
 - [ ] Что находится в пвпке *target*?
 - [ ] Зачем нужный и какие особенности у папок *src/main* и *src/test* ?
@@ -12,11 +10,9 @@
 - [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
 # SVN
 # Payara
-## Ресурсы
 1. https://docs.payara.fish/docs/5.193/README.html
 2. https://eclipse-ee4j.github.io/glassfish/docs/
 
-## Вопросы
 - [ ] 
 - [ ] Что такое и как устроет *.ear* файл
 - [ ] Что такое и как устроет *.war* файл
