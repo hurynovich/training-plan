@@ -14,7 +14,7 @@
 1. https://docs.payara.fish/docs/5.193/README.html
 2. https://eclipse-ee4j.github.io/glassfish/docs/
 
-- [ ] Что такое **Domain** и зачем он нужен? 
+- [ ] Что такое **Domain**ы и зачем они нужены? 
 - [ ] Что такое и как устроет *.ear* файл
 - [ ] Что такое и как устроет *.war* файл
 
