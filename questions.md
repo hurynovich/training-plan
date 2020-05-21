@@ -4,21 +4,24 @@
 2. https://maven.apache.org/
 
 - [ ] Что такое SNAPSHOT версия?
-- [ ] Что находится в пвпке *target*?
+- [ ] Что находится в пвпках *src* и *target*?
 - [ ] Зачем нужный и какие особенности у папок *src/main* и *src/test* ?
-- [ ] Что такое **Effective POM**?
-- [ ] Что такое **Dependency Scope** (compile, runtime, provided, test)?
+- [ ] Что такое *Effective POM*?
+- [ ] Что такое *Dependency Scope* (compile, runtime, provided, test)?
 - [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
+
 # SVN
 1. [Version Control with Subversion](http://svnbook.red-bean.com/en/1.7/svn-book.pdf)
+
+- [ ] Что такое *Working Copy*?
 
 # Payara
 1. https://docs.payara.fish/docs/5.193/README.html
 2. https://eclipse-ee4j.github.io/glassfish/docs/
 
-- [ ] Что такое **Domain**ы и зачем они нужены? 
-- [ ] Что такое и как устроет *.ear* файл
-- [ ] Что такое и как устроет *.war* файл
+- [ ] Что такое *Domain*-ы и зачем они нужны? 
+- [ ] Что такое и как устроет *.ear* файл?
+- [ ] Что такое и как устроет *.war* файл?
 
 # JSF
 # EJB
