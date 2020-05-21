@@ -1,5 +1,9 @@
 # Eclipse
 # Maven
+## Ресурсы
+1. [Maven: The Complete Reference](https://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf)
+
+## Вопросы
 - [ ] Что такое SNAPSHOT версия?
 - [ ] Что находится в пвпке *target*?
 - [ ] Зачем нужный и какие особенности у папок *src/main* и *src/test* ?
