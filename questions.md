@@ -9,6 +9,7 @@
 - [ ] Что такое *Effective POM*?
 - [ ] Что такое *Dependency Scope* (compile, runtime, provided, test)?
 - [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
+- [ ] Что за файл *setting.xml* и где он лежит? 
 
 # SVN
 1. [Version Control with Subversion](http://svnbook.red-bean.com/en/1.7/svn-book.pdf)
