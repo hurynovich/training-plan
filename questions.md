@@ -13,7 +13,7 @@
 # SVN
 # Payara
 ## Ресурсы
-[https://www.payara.fish/learn/payara-platform-documentation/]
+https://www.payara.fish/learn/payara-platform-documentation/
 
 ## Вопросы
 - [ ] 
