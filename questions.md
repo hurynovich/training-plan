@@ -12,8 +12,10 @@
 
 # SVN
 1. [Version Control with Subversion](http://svnbook.red-bean.com/en/1.7/svn-book.pdf)
-
+- [ ] Что такое *Repository*?
 - [ ] Что такое *Working Copy*?
+- [ ] Что за папки *trunk*, *branches* и *tags*?
+- [ ] Как хронить в одном репозитории несколько независимых проектов?
 
 # Payara
 1. https://docs.payara.fish/docs/5.193/README.html
