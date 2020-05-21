@@ -1,0 +1,10 @@
+# Eclipse
+# Maven
+# Ant
+# SVN
+# Payara
+# JSF
+# EJB
+# JPA
+# Lombok
+# Log4j2
