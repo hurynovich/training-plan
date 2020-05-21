@@ -13,7 +13,8 @@
 # SVN
 # Payara
 ## Ресурсы
-https://docs.payara.fish/docs/5.193/README.html
+1. https://docs.payara.fish/docs/5.193/README.html
+2. https://eclipse-ee4j.github.io/glassfish/docs/
 
 ## Вопросы
 - [ ] 
