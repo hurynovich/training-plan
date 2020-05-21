@@ -3,8 +3,8 @@
 - [ ] Что такое SNAPSHOT версия?
 - [ ] Что находится в пвпке *target*?
 - [ ] Зачем нужный и какие особенности у папок *src/main* и *src/test* ?
-- [ ] Что такое Effective POM?
-# Ant
+- [ ] Что такое **Effective POM**?
+- [ ] Что такое **Dependency Scope** (compile, runtime, provided, test)?
 # SVN
 # Payara
 # JSF
