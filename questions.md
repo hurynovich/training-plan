@@ -5,7 +5,7 @@
 - [ ] Зачем нужный и какие особенности у папок *src/main* и *src/test* ?
 - [ ] Что такое **Effective POM**?
 - [ ] Что такое **Dependency Scope** (compile, runtime, provided, test)?
-- [ ] В чем отличие <dependencyManagement/> от <dependency/>? 
+- [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
 # SVN
 # Payara
 # JSF
