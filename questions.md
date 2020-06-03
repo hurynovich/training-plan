@@ -47,5 +47,5 @@
 # JSF
 # EJB
 # JPA
-1. https://download.oracle.com/otn-pub/jcp/persistence-2_1-fr-eval-spec/JavaPersistence.pdf
+1. https://download.oracle.com/otn-pub/jcp/persistence-2_2-mrel-spec/JavaPersistence.pdf
 2. https://docs.jboss.org/hibernate/jpa/2.2/api/overview-summary.html
