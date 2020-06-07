@@ -22,6 +22,7 @@
 
 # Lombok
 1. https://projectlombok.org/features/all
+- [ ] Как интегрировать lombok в eclipse?
 - [ ] @Getter/@Setter
 - [ ] @ToString
 - [ ] @EqualsAndHashCode
