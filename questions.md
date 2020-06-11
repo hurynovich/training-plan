@@ -46,6 +46,8 @@
 - [ ] Что такое и как устроет *.war* файл?
 
 # JSF
+1. https://jcp.org/aboutJava/communityprocess/final/jsr372/index.html
+
 # EJB
 # JPA
 1. https://download.oracle.com/otn-pub/jcp/persistence-2_2-mrel-spec/JavaPersistence.pdf
