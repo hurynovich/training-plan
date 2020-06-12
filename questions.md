@@ -49,6 +49,8 @@
 1. https://jcp.org/aboutJava/communityprocess/final/jsr372/index.html
 
 # EJB
+1. https://www.manning.com/books/ejb-3-in-action-second-edition
+
 # JPA
 1. https://download.oracle.com/otn-pub/jcp/persistence-2_2-mrel-spec/JavaPersistence.pdf
 2. https://docs.jboss.org/hibernate/jpa/2.2/api/overview-summary.html
