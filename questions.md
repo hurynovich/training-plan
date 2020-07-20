@@ -8,7 +8,7 @@
 - [ ] Что находится в пвпках *src* и *target*?
 - [ ] Зачем нужный и какие особенности у папок *src/main* и *src/test* ?
 - [ ] Что такое *Effective POM*?
-- [ ] Что такое *Dependency Scope* (compile, runtime, provided, test)?
+- [ ] Что такое *Dependency Scope* (compile, runtime, provided, test, import)?
 - [ ] В чем отличие `<dependencyManagement/>` от `<dependency/>`? 
 - [ ] Что за файл *setting.xml* и где он лежит? 
 
